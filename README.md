@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=devsam.glitch.me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://devsam.glitch.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/shaikhsamir72?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgittysam72&screen_name=shaikhsamir72)
 
-## I am a passionate individual with a zest for knowledge which drives me to learn about new concepts and technologies.##
+## I am a passionate individual with a zest for knowledge which drives me to learn about new concepts and technologies.
 ## I'm a CyberSecurityStudent, SelfLearner, Developer, and Instructor!!
 
 - 🔭 I just launched my first course: [Network Fundamentals][course]!
