@@ -21,173 +21,173 @@
 [<img align="left" alt="shaikhsamir | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-## WaLl Of Fame
-Certifications
+## Wall Of Fame
+-Certifications
 
-	Courses
+-	Courses
 
-		Online
+-		Online
 
-			Udemy
+-			Udemy
 				Introduction to Computer Network for Beginers
 				Link :- https://drive.google.com/file/d/1PZwBxcqA1XcaGy83PYxQam5XCpRriNSC/view?usp=sharing
 
-				Remote Teaching
+-				Remote Teaching
 				Link :- https://drive.google.com/file/d/1S-vMDlaW0vnXdblaQDv__HOhp5QDZ5j8/view?usp=sharing
 
-			AWS
+-			AWS
 				AWS Security Fundamentals
 				Link :- https://drive.google.com/file/d/1W6rh31ptXJ29kp-XOkX5HhJ7cGdM7R0a/view?usp=sharing
 
-			Google
+-			Google
 
-				Cloud
+-				Cloud
 				Link :- https://www.qwiklabs.com/public_profiles/9240f833-72f4-4c65-85e0-0e2f7c0a3b22
 
-				Google Analytics
+-				Google Analytics
 				Link :- https://drive.google.com/file/d/1L_ssBmG4u6Hm1KWFkj8rFbYk_Rz1gZvz/view?usp=sharing
 
-			ICSI
+-			ICSI
 
-				Certified Network Security Specialist
+-				Certified Network Security Specialist
 				Link :- https://drive.google.com/file/d/1dgwJTtA9GAdp9omI5Q7uvFiIsJXAXWeX/view?usp=sharing
 
-			Cisco Network Academy
+-			Cisco Network Academy
 
-				Introduction to CyberSecurity
+-				Introduction to CyberSecurity
 				Link :- https://drive.google.com/file/d/1pGimydK-M4Ji_6A85Ade7Le4P7G9DC7X/view?usp=sharing
 
-			NSDC
+-			NSDC
 				Skill India Level 3
 				Link :- https://drive.google.com/file/d/1q6jT62DULdZUb4vaqlf0BD3nNBS2DR-V/view?usp=sharing
 
-			BitDegree
+=			BitDegree
 				How to Create a Webinar That’ll Bring You Money?
 				Link :- https://drive.google.com/file/d/1sL2ZEAKYz9T2zqqemEZ7lMczINx_vrzg/view?usp=sharing
 
-		Offline
+=		Offline
 
-			SNGC
+=			SNGC
 				Carrer Oriented Course
 				Link :- https://drive.google.com/file/d/11tX0GY5SpZ7aRGbJhfjVjjSn1cezM5Jl/view?usp=sharing
 
-			Programmers Club KTC
+=			Programmers Club KTC
 				Diploma in Python
 				Link :- https://drive.google.com/file/d/1-l8A-Xr5V3yb-sYehsRbB4jUvczQBwVi/view?usp=sharing
 
-	Participation
+-	Participation
 
-		Online 
-			KC college
+-		Online 
+-			KC college
 				Quiz on C
 				Link :- https://drive.google.com/file/d/1cFUTq6OpBbMqzEZB4cqJvAFglmwEqCCC/view?usp=sharing
 
 				Quiz on Python 
 				Link :- https://drive.google.com/file/d/1_0NjKqAkasE_iQeAGE6_NAYJW4vY-KR8/view?usp=sharing
 
-			ARKP
+-			ARKP
 				Quiz on Python
 				Link :- https://drive.google.com/file/d/1Yqbc5NlwV3dkWymNTQJFOnVhxrii5Yul/view?usp=sharing
 
-			KTC
+-			KTC
 				Practical approach to AI
 				Link :- https://drive.google.com/file/d/12ukjfsEaucfHNplcnPWCYR1V7HEOYckM/view?usp=sharing
 
-				Environmental Awareness
+-				Environmental Awareness
 				Link :- https://drive.google.com/file/d/10qmCoxkPZ-9RdFe5-KLvQOoicrdEMcWe/view?usp=sharing
 
-				COVID-19 Awareness Program
+-				COVID-19 Awareness Program
 				Link :- https://drive.google.com/file/d/1bkmFq_2qL3vx4-ggNZyy_C3ciJFZ-lm0/view?usp=sharing
 
-				EMEG
+-				EMEG
 				Link :- https://drive.google.com/file/d/145hP_pYaKxVOsSjIJsKv9U8rW57HAlch/view?usp=sharing
 
-				MH-CET
+-				MH-CET
 				Link :- https://drive.google.com/file/d/1c4_uhm8Xq1VH6xywfYTDGChBTqfNAZGr/view?usp=sharing
 
-			Jaihind ColleĀe oÿ EnĀineerinĀ
+-			Jaihind ColleĀe oÿ EnĀineerinĀ
 				Object Oriented Programming using C++
 				Link :- https://drive.google.com/file/d/1J9uu4xk17ZbZ6IlVfQKkQzvzW6uNNs7t/view?usp=sharing
 
-			International Forensic Sciences
+-			International Forensic Sciences
 				Forensic Quiz
 				Link :- https://drive.google.com/file/d/19SgaeTxo0TPiVn6dZLIJXisb7Nuk8A6J/view?usp=sharing
 
-			MyGov
+-			MyGov
 				Covid Awareness
 				Link :- https://drive.google.com/file/d/11Pdtax-ztLWBrWPYpcSDeM4uSlWhFjMZ/view?usp=sharing
 
-				Ayush Yoga Quiz
+-				Ayush Yoga Quiz
 				Link :- https://drive.google.com/file/d/1GhZ1jWf5oDn9_tKl6daRzxCchhqXmG-D/view?usp=sharing
 
-				Incredible India Tourism
+-				Incredible India Tourism
 				Link :- https://drive.google.com/file/d/1wHIQyrcB3S2tCqYwaP4jCPgKpWh484jB/view?usp=sharing
 
-			Sri Krishna Degree College
+-			Sri Krishna Degree College
 				Java Programming
 				Link :- https://drive.google.com/file/d/1pdk4P6pFtnk4O82XbMY1telX49eYrdxP/view?usp=sharing
 
-				Web Fundamentals
+-				Web Fundamentals
 				Link :- https://drive.google.com/file/d/1SnBkR62I81OR7G284ZZfg92oVOQHhOVD/view?usp=sharing
 
-				C programming
+-				C programming
 				Link :- https://drive.google.com/file/d/1xfWp-aAv0JBe7mkKsIh9jyBT10GHcfmH/view?usp=sharing
 
-			Puma
+-			Puma
 				Stor Opening Quiz
 				Link :- https://drive.google.com/file/d/1iDkPjkyIFqp3XxCJHpzjQKbIWHseHyrr/view?usp=sharing
 
-		Offline
+-		Offline
 			KTC
 				Algorithms 6.0
 				Link :- https://drive.google.com/file/d/1nmJlSQtr9ivfyPxjubRfMWjScB5efwiG/view?usp=sharing
 
-			ISB & M
+-			ISB & M
 				Android Studio
 				Link :- https://drive.google.com/file/d/1aweEuIsWpxUsxoedBKmA-uOV9lhQO97V/view?usp=sharing
 
-			BAM
+-			BAM
 				Business Seminar MIndicator
 				Link :- https://drive.google.com/file/d/15BX1ZyIp7Oc1HE4EFnFMxApFxBcLEEDq/view?usp=sharing
 
-			MCED
+-			MCED
 				Enterprenuership Awareness Camp
 				Link :- https://drive.google.com/file/d/1zN3lV1x4_AfvXIZ2skJmZ4UTe_0cjgov/view?usp=sharing
 
-			UCE
+-			UCE
 				Project Particpation
 				Link :- https://drive.google.com/file/d/1KX5meNi3ObqGTamKZMTAdaO_PodEh_Te/view?usp=sharing
 
-			MSBTE 
+-			MSBTE 
 				National Level Project Participation
 				Link :- https://drive.google.com/file/d/1o64caSF_UEVDihcPHK0SY4nBFdPufSoQ/view?usp=sharing
 
-			Anti Narcutics Crime Branch
+-			Anti Narcutics Crime Branch
 				Drug Free Campus
 				Link :- https://drive.google.com/file/d/1ca3CsyIrgxh6T2FS0VqiW1QFSEKtjsvC/view?usp=sharing
 
-			Sabbo Siddik 
+-			Sabbo Siddik 
 				Error 404 Hackathon
 				Link :- https://drive.google.com/file/d/1DhIVNwo10DiCWFH10aM5jL1fFcPP1JE8/view?usp=sharing
 	
-	Winner/Appreciation
+-	Winner/Appreciation
 
-			SNGC
+-			SNGC
 				Best of Out Waste Winner
 				Link :- https://drive.google.com/file/d/1mVTWTxweS6MsQEKODcjuyt5b7XTbtun8/view?usp=sharing
 
-				Case Study Winner
+-				Case Study Winner
 				Link :- https://drive.google.com/file/d/1iSbhzFBa6SjJkcEVD6TojM6v4G4GpVZc/view?usp=sharing
 
-			MSBTE
+-			MSBTE
 				Diploma Passing Certicate
 				Link :- https://drive.google.com/file/d/1PavjFPLjmWJu4x9lxcZVaUJFpmRzBl9y/view?usp=sharing
 
-			ARKP
+-			ARKP
 				COM
 				Link :- https://drive.google.com/file/d/1X3RXmn7tOu-Z_QtPFb-HfHrRkRuud_2t/view?usp=sharing
 
-				Spunk 18 Technical Quiz Winner
+-				Spunk 18 Technical Quiz Winner
 				Link :- https://drive.google.com/file/d/1Cp8d4tvZsBK3J4p5wPPAmS4k01_g8X0V/view?usp=sharing
 
 
