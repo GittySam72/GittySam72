@@ -1,52 +1,15 @@
-### Hello World, I'm Sam - aka [GittySam72][website] 👋
+# Sameer Shaikh
+### I am a passionate individual with a zest for knowledge which drives me to learn about new concepts and technologies.
 
-[![Website](https://img.shields.io/website?label=devsam.glitch.me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://devsam.glitch.me)
-[![Twitter Follow](https://img.shields.io/twitter/follow/shaikhsamir72?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgittysam72&screen_name=shaikhsamir72)
 
-## I am a passionate individual with a zest for knowledge which drives me to learn about new concepts and technologies.
-## I'm a CyberSecurityStudent, SelfLearner, Developer, and Instructor!!
 
-- 🔭 I just launched my first course: [Network Fundamentals][course]!
-- 🌱 I’m currently learning Web Security.
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to listen poets and rappers.
+ <a aligh="left" href="https://devsam.glitch.me/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:shaikhsameer2272@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/shaikhsamir72" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/shaikhsameer72" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a> <a aligh="left" href="https://www.youtube.com/greytesla" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/youtube.svg" alt="YouTube" width="22" height="22" /></a>  
 
-### Connect with me:
+⚐ Based in Mumbai, India
 
-[<img align="left" alt="shaikhsamir.glitch.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="shiakh sameer | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="shaikhsamir72 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="shaikhsameer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="shaikhsamir | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+ϟ Currently Bug Hunting
 
-<br />
+ϟ Recently Hall of Fame at HippoVideo
 
-### Github Stats
-
-<div align="center">
-   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GittySam72&theme=dark&layout=compact" /> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GittySam72&show_icons=true&theme=dark" />
-</div>
-<br />
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Marcus Hutchins - The Ambivalent Hacker | What is Ransomware](https://www.youtube.com/watch?v=kxx1Ijya0Z0)
-- [Online Privacy - The Dilemma of Digital Age | Privacy Policy Analysis ](https://www.youtube.com/watch?v=AQHmR4hLaz8)
-- [Biggest CyberAttack of 2020 Solarwinds | What is Solarwinds Attack ? | HD](https://www.youtube.com/watch?v=57F9ZBs68vw)
-- [Youtube Hack Bitcoin Scams- A big picture 2020 HD](https://www.youtube.com/watch?v=59qaeFdloqU)
-- [Twitter Hack Analysis - Art of Social Engineering - 2020 HD](https://www.youtube.com/watch?v=ROoGXLs3XsU)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](www.youtube.com/channel/UCNvW-iJtg3kA8l4jG5YclOQ)
-
----
-
-[website]: https://devsam.glitch.me
-[course]: https://www.udemy.com/course/network-fundamentals-x
-[twitter]: https://twitter.com/shaikhsamir72
-[youtube]: www.youtube.com/channel/UCNvW-iJtg3kA8l4jG5YclOQ
-[instagram]: https://www.instagram.com/shaikhsamir72
-[linkedin]: https://www.linkedin.com/in/shaikh-sameer-4884b7188
-
+ ## Skills
+   <a href="https://www.learn-c.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/c.svg" alt="C" width="25" height="25" /></a> <a href="https://www.java.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/java.svg" alt="Java" width="25" height="25" /></a> <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" /></a> <a href="https://www.python.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/python.svg" alt="Python" width="25" height="25" /></a>   <a href="https://graphql.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/graphql.svg" alt="GraphQL" width="25" height="25" /></a> <a href="https://www.mysql.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/mysql.svg" alt="MySQL" width="25" height="25" /></a> 
