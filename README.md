@@ -8,7 +8,7 @@
 ⚐ Based in Mumbai, India
 [LoomThumbnailPOC - Watch Video
 
-](https://www.loom.com/share/404e3db9ff8440208219e5ad0f489cb7?sid=6f50aedb-cab9-4147-ad3f-eca9d7da49ab)
+](https://www.loom.com/share/f1df48e6b3b54f4380348bbf0d5b497c?sid=6f50aedb-cab9-4147-ad3f-eca9d7da49ab)
 ϟ Currently Bug Hunting
 
 ϟ Recently Hall of Fame at HippoVideo
