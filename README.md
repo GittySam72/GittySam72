@@ -6,9 +6,9 @@
  <a aligh="left" href="https://devsam.glitch.me/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:shaikhsameer2272@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/shaikhsamir72" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/shaikhsameer72" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a> <a aligh="left" href="https://www.youtube.com/greytesla" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/youtube.svg" alt="YouTube" width="22" height="22" /></a>  
 
 ⚐ Based in Mumbai, India
-LoomThumbnailPOC - Watch Video
+[LoomThumbnailPOC - Watch Video
 
-
+](https://www.loom.com/share/404e3db9ff8440208219e5ad0f489cb7?sid=6f50aedb-cab9-4147-ad3f-eca9d7da49ab)
 ϟ Currently Bug Hunting
 
 ϟ Recently Hall of Fame at HippoVideo
